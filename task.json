@@ -3,7 +3,7 @@
        { 
           
           "essential": true,
-          "image": "971076122335.dkr.ecr.ap-south-1.amazonaws.com/sample:SAMPLE-PROJECT-buildNumber",
+          "image": "403315843742.dkr.ecr.ap-south-1.amazonaws.com/test:SAMPLE-PROJECT-buildNumber",
           "logConfiguration": { 
              "logDriver": "awslogs",
              "options": { 
